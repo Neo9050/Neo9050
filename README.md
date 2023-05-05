@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neo9050
-- 👀 I’m interested in Blockchain Technology 
-- 🌱 I’m currently learning Solidity, Truffle
+- 👀 I’m interested in Web development and i am a Full Stack developer
+- 🌱 I’m currently working on javascript, react.js, express.js, html5,tailwind and mongodb
 - 📫 How to reach me -sumesh9050@gmail.com
 
 <!---
